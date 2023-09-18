@@ -1,0 +1,3 @@
+D:\living\obsidian_plugin_dev_environment\.obsidian\plugins\obsidian_effortless_canvas\obj\Debug\NodejsApp1.njsproj.AssemblyReference.cache
+D:\living\obsidian_plugin_dev_environment\.obsidian\plugins\obsidian_effortless_canvas\obj\Debug\NodejsApp1.njsproj.CoreCompileInputs.cache
+D:\living\obsidian_plugin_dev_environment\.obsidian\plugins\obsidian_effortless_canvas\bin\Microsoft.NodejsTools.WebRole.dll
